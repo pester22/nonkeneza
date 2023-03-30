@@ -1,0 +1,21 @@
+body{
+    background-color: navy;
+}
+.container{
+    width: 400px;
+    background-color: azure;
+    position: relative; top: 200px;
+}
+h1{
+    text-align: centre;
+}
+#facebook{
+    position: relative; left: 200px;
+
+}
+#whatsap{
+    position: relative; left: 280px;
+    background-color: blue;
+
+
+}
